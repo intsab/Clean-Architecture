@@ -1,4 +1,4 @@
-# Project Title
+# Currency Converter app Using MVVM Clean Architecture
 
 Briefly describe your Android project here, highlighting its key features and functionalities.
 
