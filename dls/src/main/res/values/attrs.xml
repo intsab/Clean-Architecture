@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dls_currency_item_attr">
+        <attr name="isGridItem" format="boolean" />
+        <attr name="currency" format="string" />
+        <attr name="country" format="string" />
+        <attr name="amount" format="string" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_id">b04f72ed57934cb8af30f1af65a67283</string>
+
+    <string name="base_url">https://openexchangerates.org/api/</string>
+
+    <string name="convert_endpoint">convert/%s/%s/%s?app_id=%s</string>
+    <string name="currencies_endpoint">currencies.json?prettyprint=false&amp;show_alternative=false&amp;show_inactive=false</string>
+    <string name="latest_rate_endpoint">latest.json?app_id=%s</string>
+
+</resources>
